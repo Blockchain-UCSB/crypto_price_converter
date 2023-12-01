@@ -5,7 +5,8 @@ import ChakraBoxExample from './ChakraBoxExample';
 function App() {
   return (
     <div className="App">
-      <CategoryDropdown/>
+      <CategoryDropdown />
+      <CategoryDropdown />
       <ChakraBoxExample />
     </div>
   );
